@@ -1,2 +1,2 @@
-i'm a backend developer and historian.</p> 
+backend developer / historian.</p> 
 love cats, elixir and green
