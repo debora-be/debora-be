@@ -1,2 +1,2 @@
-backend developer / historian</p> 
+backend developer
 love cats, elixir and green
