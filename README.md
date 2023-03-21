@@ -1,2 +1,2 @@
 backend developer<p>
-love cats, elixir and green
+love cats, self learning, functional programming and green
