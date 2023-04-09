@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifdb.com/images/high/programmer-cat-typing-on-laptop-j6rz6vr5mlfzl83h.webp" align="center" height="166" width="166" />
+<img src="https://gifdb.com/images/high/programmer-cat-typing-on-laptop-j6rz6vr5mlfzl83h.webp" align="center" height="206" width="206" />
 </div>  
   
 
@@ -28,9 +28,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=debora-be&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=debora-be&&style=flat-square" align="center" />
-</div>  
+<br/> 
   
