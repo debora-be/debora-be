@@ -22,6 +22,6 @@
 
 - Agile Development: Scrum and Kanban with tools like Jira, Trello, and Git for project management, version control, and collaboration.  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora-be&langs_count=20&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora-be&langs_count=7&theme=radical" align="center" /></div>  
 </br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=debora-be&show_icons=true&count_private=true&theme=radical&hide_border=false" align="center" /></div>  
