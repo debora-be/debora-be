@@ -1,10 +1,3 @@
-```json
-{
-  "full_name": "Debora Berte",
-  "born_in": "RS",
-  "lives_in": "SP"
-}
-``` 
 <div align="center">
 <img src="https://gifdb.com/images/high/programmer-cat-typing-on-laptop-j6rz6vr5mlfzl83h.webp" align="center" height="206" width="206" />
 </div>  
