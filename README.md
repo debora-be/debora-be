@@ -6,4 +6,3 @@ Software engineer focused on backend development and fascinated about functional
 </div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora-be&langs_count=7&theme=radical" align="center" /></div>  
 </br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=debora-be&show_icons=true&count_private=true&theme=radical&hide_border=false" align="center" /></div>  
