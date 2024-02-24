@@ -10,7 +10,7 @@
 ### :i_like
 
 ```elixir
-~w(cats functional_programming iot archaeology any_db_i_find devops djent software_reliability history rpg cloud)
+~w(cats functional_programming iot nix archaeology any_db_i_find devops cosmos djent software_reliability history rpg cloud)
 ```
   
 ### :developing_with
