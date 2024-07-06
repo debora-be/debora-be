@@ -1,4 +1,4 @@
-## Hi there, I'm deb(s)
+## Hi there, I'm Debora
 
 <p>A software engineer working mainly on backend development and SRE, having fun while transitioning legacy systems to functional-based solutions.</p>
 <p>I prioritize streamlined, reproducible processes to meet business goals.</p>
